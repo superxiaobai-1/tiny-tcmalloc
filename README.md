@@ -1,6 +1,7 @@
 # Tiny-TCMalloc LINUX版本🚀
 
-**Tiny-TCMalloc** 是一个 LINUX 版本的 TCMalloc 内存分配器实现，专注于LINUX高效的内存管理和多线程支持。该项目是学习LINUX内存分配器设计和多线程编程的绝佳实践。
+**Tiny-TCMalloc** 是一个 LINUX 版本的 TCMalloc 内存分配器实现，专注于LINUX高效的内存管理和多线程支持。  
+该项目由cmake构建，是学习C++、LINUX、内存分配器设计、多线程编程、Linux性能分析的绝佳实践。
 
 ## 简介 📖
 
